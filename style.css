@@ -1,0 +1,20 @@
+h1{
+    color:rgb(8, 129, 24)
+}
+.start{
+    background-color:mediumseagreen;
+    display:flex; 
+    justify-content:space-evenly;
+}
+.AllGames{
+    display:flex; 
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+.End{
+    display:flex;
+    justify-content:flex-end;
+}
+h2,p{
+    text-align:center;
+}
